@@ -1,0 +1,134 @@
+C:\Users\Apoorv\Downloads\AviaryDemo\AviaryDemo\Bin\Debug\Background.png
+C:\Users\Apoorv\Downloads\AviaryDemo\AviaryDemo\Bin\Debug\ApplicationIcon.png
+C:\Users\Apoorv\Downloads\AviaryDemo\AviaryDemo\Bin\Debug\AviaryDemo.dll
+C:\Users\Apoorv\Downloads\AviaryDemo\AviaryDemo\Bin\Debug\AviaryDemo.pdb
+C:\Users\Apoorv\Downloads\AviaryDemo\AviaryDemo\Bin\Debug\AviarySDK.dll
+C:\Users\Apoorv\Downloads\AviaryDemo\AviaryDemo\Bin\Debug\ImageTools.Phone.dll
+C:\Users\Apoorv\Downloads\AviaryDemo\AviaryDemo\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Apoorv\Downloads\AviaryDemo\AviaryDemo\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Apoorv\Downloads\AviaryDemo\AviaryDemo\Bin\Debug\PhoneCodeContractsAssemblies.dll
+C:\Users\Apoorv\Downloads\AviaryDemo\AviaryDemo\Bin\Debug\System.Json.dll
+C:\Users\Apoorv\Downloads\AviaryDemo\AviaryDemo\Bin\Debug\ExifLib.dll
+C:\Users\Apoorv\Downloads\AviaryDemo\AviaryDemo\Bin\Debug\AviarySDK.pdb
+C:\Users\Apoorv\Downloads\AviaryDemo\AviaryDemo\Bin\Debug\ImageTools.Phone.pdb
+C:\Users\Apoorv\Downloads\AviaryDemo\AviaryDemo\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Apoorv\Downloads\AviaryDemo\AviaryDemo\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Apoorv\Downloads\AviaryDemo\AviaryDemo\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Apoorv\Downloads\AviaryDemo\AviaryDemo\Bin\Debug\en-US\AviarySDK.resources.dll
+C:\Users\Apoorv\Downloads\AviaryDemo\AviaryDemo\obj\Debug\AviaryDemo.g.resources
+C:\Users\Apoorv\Downloads\AviaryDemo\AviaryDemo\obj\Debug\AviaryDemo.dll
+C:\Users\Apoorv\Downloads\AviaryDemo\AviaryDemo\obj\Debug\AviaryDemo.pdb
+C:\Users\Apoorv\Downloads\AviaryDemo\AviaryDemo\Bin\Debug\AppManifest.xaml
+C:\Users\Apoorv\Downloads\AviaryDemo\AviaryDemo\obj\Debug\XapCacheFile.xml
+C:\Users\Apoorv\Downloads\AviaryDemo\AviaryDemo\obj\Debug\AviaryDemo.csprojResolveAssemblyReference.cache
+C:\Users\Apoorv\Downloads\AviaryDemo\AviaryDemo\Bin\Debug\Custom Effects.xap
+C:\Users\Apoorv\Downloads\AviaryDemo\AviaryDemo\Bin\Debug\SplashScreenImage.jpg
+C:\Users\Apoorv\Downloads\AviaryDemo\AviaryDemo\obj\Debug\App.g.i.cs
+C:\Users\Apoorv\Downloads\AviaryDemo\AviaryDemo\obj\Debug\MainPage.g.i.cs
+C:\Users\Apoorv\Downloads\AviaryDemo\AviaryDemo\Bin\Debug\images\Aviaryimage.png
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\Background.png
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\ApplicationIcon.png
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\images\background.png
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\SplashScreenImage.jpg
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\AviaryDemo.dll
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\AviaryDemo.pdb
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\AppManifest.xaml
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\Effects.xap
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\AviarySDK.dll
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\ImageTools.Phone.dll
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\PhoneCodeContractsAssemblies.dll
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\System.Json.dll
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\ExifLib.dll
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\AviarySDK.pdb
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\ImageTools.Phone.pdb
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\Microsoft.Phone.Controls.xml
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\en-US\AviarySDK.resources.dll
+E:\New Aviary Project\AviaryDemo\AviaryDemo\obj\Debug\AviaryDemo.csprojResolveAssemblyReference.cache
+E:\New Aviary Project\AviaryDemo\AviaryDemo\obj\Debug\App.g.i.cs
+E:\New Aviary Project\AviaryDemo\AviaryDemo\obj\Debug\MainPage.g.i.cs
+E:\New Aviary Project\AviaryDemo\AviaryDemo\obj\Debug\AviaryDemo.g.resources
+E:\New Aviary Project\AviaryDemo\AviaryDemo\obj\Debug\AviaryDemo.dll
+E:\New Aviary Project\AviaryDemo\AviaryDemo\obj\Debug\AviaryDemo.pdb
+E:\New Aviary Project\AviaryDemo\AviaryDemo\obj\Debug\XapCacheFile.xml
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\Telerik.Windows.Controls.Input.dll
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\Telerik.Windows.Controls.Primitives.dll
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\Telerik.Windows.Core.dll
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\System.Windows.Interactivity.dll
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\Telerik.Windows.Controls.Input.pdb
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\Telerik.Windows.Controls.Input.xml
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\Telerik.Windows.Controls.Primitives.pdb
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\Telerik.Windows.Controls.Primitives.xml
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\Telerik.Windows.Core.pdb
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\Telerik.Windows.Core.xml
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\System.Windows.Interactivity.xml
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\de-DE\Telerik.Windows.Controls.Input.resources.dll
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\fr-FR\Telerik.Windows.Controls.Input.resources.dll
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\it-IT\Telerik.Windows.Controls.Input.resources.dll
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\de-DE\Telerik.Windows.Controls.Primitives.resources.dll
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\fr-FR\Telerik.Windows.Controls.Primitives.resources.dll
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\it-IT\Telerik.Windows.Controls.Primitives.resources.dll
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\Background.png
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\ApplicationIcon.png
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\images\background.png
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\SplashScreenImage.jpg
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\AviaryDemo.dll
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\AviaryDemo.pdb
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\AppManifest.xaml
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\Effects.xap
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\AviarySDK.dll
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\ImageTools.Phone.dll
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\PhoneCodeContractsAssemblies.dll
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\System.Json.dll
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\ExifLib.dll
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\Telerik.Windows.Core.dll
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\System.Windows.Interactivity.dll
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\AviarySDK.pdb
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\ImageTools.Phone.pdb
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\Microsoft.Phone.Controls.xml
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\Telerik.Windows.Controls.Input.pdb
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\Telerik.Windows.Controls.Input.xml
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\Telerik.Windows.Controls.Primitives.pdb
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\Telerik.Windows.Controls.Primitives.xml
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\Telerik.Windows.Core.pdb
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\Telerik.Windows.Core.xml
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\System.Windows.Interactivity.xml
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\en-US\AviarySDK.resources.dll
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\de-DE\Telerik.Windows.Controls.Input.resources.dll
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\fr-FR\Telerik.Windows.Controls.Input.resources.dll
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\it-IT\Telerik.Windows.Controls.Input.resources.dll
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\de-DE\Telerik.Windows.Controls.Primitives.resources.dll
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\fr-FR\Telerik.Windows.Controls.Primitives.resources.dll
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\it-IT\Telerik.Windows.Controls.Primitives.resources.dll
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\obj\Debug\AviaryDemo.csprojResolveAssemblyReference.cache
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\obj\Debug\App.g.cs
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\obj\Debug\MainPage.g.cs
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\obj\Debug\AviaryDemo.g.resources
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\obj\Debug\AviaryDemo.dll
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\obj\Debug\AviaryDemo.pdb
+E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\obj\Debug\XapCacheFile.xml

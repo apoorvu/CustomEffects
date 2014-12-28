@@ -1,0 +1,23 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="AviaryDemo" EntryPointType="AviaryDemo.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="AviaryDemo" Source="AviaryDemo.dll" />
+    <AssemblyPart x:Name="AviarySDK" Source="AviarySDK.dll" />
+    <AssemblyPart x:Name="ImageTools.Phone" Source="ImageTools.Phone.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls" Source="Microsoft.Phone.Controls.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls.Toolkit" Source="Microsoft.Phone.Controls.Toolkit.dll" />
+    <AssemblyPart x:Name="PhoneCodeContractsAssemblies" Source="PhoneCodeContractsAssemblies.dll" />
+    <AssemblyPart x:Name="Telerik.Windows.Controls.Input" Source="Telerik.Windows.Controls.Input.dll" />
+    <AssemblyPart x:Name="Telerik.Windows.Controls.Primitives" Source="Telerik.Windows.Controls.Primitives.dll" />
+    <AssemblyPart x:Name="System.Json" Source="System.Json.dll" />
+    <AssemblyPart x:Name="ExifLib" Source="ExifLib.dll" />
+    <AssemblyPart x:Name="Telerik.Windows.Core" Source="Telerik.Windows.Core.dll" />
+    <AssemblyPart x:Name="System.Windows.Interactivity" Source="System.Windows.Interactivity.dll" />
+    <AssemblyPart Source="en-US/AviarySDK.resources.dll" />
+    <AssemblyPart Source="de-DE/Telerik.Windows.Controls.Input.resources.dll" />
+    <AssemblyPart Source="fr-FR/Telerik.Windows.Controls.Input.resources.dll" />
+    <AssemblyPart Source="it-IT/Telerik.Windows.Controls.Input.resources.dll" />
+    <AssemblyPart Source="de-DE/Telerik.Windows.Controls.Primitives.resources.dll" />
+    <AssemblyPart Source="fr-FR/Telerik.Windows.Controls.Primitives.resources.dll" />
+    <AssemblyPart Source="it-IT/Telerik.Windows.Controls.Primitives.resources.dll" />
+  </Deployment.Parts>
+</Deployment>

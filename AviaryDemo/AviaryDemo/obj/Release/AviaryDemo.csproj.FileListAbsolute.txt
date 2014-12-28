@@ -1,0 +1,177 @@
+C:\Users\afuchs\Documents\Dev\WP7\AviaryDemo_source_0425b\Demo\AviaryDemo\Bin\Release\ApplicationIcon.png
+C:\Users\afuchs\Documents\Dev\WP7\AviaryDemo_source_0425b\Demo\AviaryDemo\Bin\Release\Background.png
+C:\Users\afuchs\Documents\Dev\WP7\AviaryDemo_source_0425b\Demo\AviaryDemo\Bin\Release\AviaryDemo.dll
+C:\Users\afuchs\Documents\Dev\WP7\AviaryDemo_source_0425b\Demo\AviaryDemo\Bin\Release\AviaryDemo.pdb
+C:\Users\afuchs\Documents\Dev\WP7\AviaryDemo_source_0425b\Demo\AviaryDemo\Bin\Release\AppManifest.xaml
+C:\Users\afuchs\Documents\Dev\WP7\AviaryDemo_source_0425b\Demo\AviaryDemo\Bin\Release\AviaryDemo.xap
+C:\Users\afuchs\Documents\Dev\WP7\AviaryDemo_source_0425b\Demo\AviaryDemo\Bin\Release\AviarySDK.dll
+C:\Users\afuchs\Documents\Dev\WP7\AviaryDemo_source_0425b\Demo\AviaryDemo\Bin\Release\ImageTools.Phone.dll
+C:\Users\afuchs\Documents\Dev\WP7\AviaryDemo_source_0425b\Demo\AviaryDemo\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\afuchs\Documents\Dev\WP7\AviaryDemo_source_0425b\Demo\AviaryDemo\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\afuchs\Documents\Dev\WP7\AviaryDemo_source_0425b\Demo\AviaryDemo\Bin\Release\PhoneCodeContractsAssemblies.dll
+C:\Users\afuchs\Documents\Dev\WP7\AviaryDemo_source_0425b\Demo\AviaryDemo\Bin\Release\System.Json.dll
+C:\Users\afuchs\Documents\Dev\WP7\AviaryDemo_source_0425b\Demo\AviaryDemo\Bin\Release\ExifLib.dll
+C:\Users\afuchs\Documents\Dev\WP7\AviaryDemo_source_0425b\Demo\AviaryDemo\Bin\Release\AviarySDK.pdb
+C:\Users\afuchs\Documents\Dev\WP7\AviaryDemo_source_0425b\Demo\AviaryDemo\Bin\Release\ImageTools.Phone.pdb
+C:\Users\afuchs\Documents\Dev\WP7\AviaryDemo_source_0425b\Demo\AviaryDemo\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\afuchs\Documents\Dev\WP7\AviaryDemo_source_0425b\Demo\AviaryDemo\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\afuchs\Documents\Dev\WP7\AviaryDemo_source_0425b\Demo\AviaryDemo\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\afuchs\Documents\Dev\WP7\AviaryDemo_source_0425b\Demo\AviaryDemo\Bin\Release\de-DE\AviarySDK.resources.dll
+C:\Users\afuchs\Documents\Dev\WP7\AviaryDemo_source_0425b\Demo\AviaryDemo\Bin\Release\en-US\AviarySDK.resources.dll
+C:\Users\afuchs\Documents\Dev\WP7\AviaryDemo_source_0425b\Demo\AviaryDemo\Bin\Release\es-ES\AviarySDK.resources.dll
+C:\Users\afuchs\Documents\Dev\WP7\AviaryDemo_source_0425b\Demo\AviaryDemo\Bin\Release\fr-FR\AviarySDK.resources.dll
+C:\Users\afuchs\Documents\Dev\WP7\AviaryDemo_source_0425b\Demo\AviaryDemo\Bin\Release\it-IT\AviarySDK.resources.dll
+C:\Users\afuchs\Documents\Dev\WP7\AviaryDemo_source_0425b\Demo\AviaryDemo\Bin\Release\ja-JP\AviarySDK.resources.dll
+C:\Users\afuchs\Documents\Dev\WP7\AviaryDemo_source_0425b\Demo\AviaryDemo\Bin\Release\nl-NL\AviarySDK.resources.dll
+C:\Users\afuchs\Documents\Dev\WP7\AviaryDemo_source_0425b\Demo\AviaryDemo\Bin\Release\pt-BR\AviarySDK.resources.dll
+C:\Users\afuchs\Documents\Dev\WP7\AviaryDemo_source_0425b\Demo\AviaryDemo\Bin\Release\pt-PT\AviarySDK.resources.dll
+C:\Users\afuchs\Documents\Dev\WP7\AviaryDemo_source_0425b\Demo\AviaryDemo\Bin\Release\ru-RU\AviarySDK.resources.dll
+C:\Users\afuchs\Documents\Dev\WP7\AviaryDemo_source_0425b\Demo\AviaryDemo\Bin\Release\zh-CN\AviarySDK.resources.dll
+C:\Users\afuchs\Documents\Dev\WP7\AviaryDemo_source_0425b\Demo\AviaryDemo\Bin\Release\zh-TW\AviarySDK.resources.dll
+C:\Users\afuchs\Documents\Dev\WP7\AviaryDemo_source_0425b\Demo\AviaryDemo\obj\Release\ResolveAssemblyReference.cache
+C:\Users\afuchs\Documents\Dev\WP7\AviaryDemo_source_0425b\Demo\AviaryDemo\obj\Release\App.g.i.cs
+C:\Users\afuchs\Documents\Dev\WP7\AviaryDemo_source_0425b\Demo\AviaryDemo\obj\Release\MainPage.g.i.cs
+C:\Users\afuchs\Documents\Dev\WP7\AviaryDemo_source_0425b\Demo\AviaryDemo\obj\Release\AviaryDemo.g.resources
+C:\Users\afuchs\Documents\Dev\WP7\AviaryDemo_source_0425b\Demo\AviaryDemo\obj\Release\AviaryDemo.dll
+C:\Users\afuchs\Documents\Dev\WP7\AviaryDemo_source_0425b\Demo\AviaryDemo\obj\Release\AviaryDemo.pdb
+C:\Users\afuchs\Documents\Dev\WP7\AviaryDemo_source_0425b\Demo\AviaryDemo\obj\Release\XapCacheFile.xml
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\AviaryDemo\AviaryDemo\Bin\Release\ApplicationIcon.png
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\AviaryDemo\AviaryDemo\Bin\Release\Background.png
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\AviaryDemo\AviaryDemo\Bin\Release\AviaryDemo.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\AviaryDemo\AviaryDemo\Bin\Release\AviaryDemo.pdb
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\AviaryDemo\AviaryDemo\Bin\Release\AppManifest.xaml
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\AviaryDemo\AviaryDemo\Bin\Release\AviaryDemo.xap
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\AviaryDemo\AviaryDemo\Bin\Release\AviarySDK.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\AviaryDemo\AviaryDemo\Bin\Release\ImageTools.Phone.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\AviaryDemo\AviaryDemo\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\AviaryDemo\AviaryDemo\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\AviaryDemo\AviaryDemo\Bin\Release\PhoneCodeContractsAssemblies.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\AviaryDemo\AviaryDemo\Bin\Release\System.Json.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\AviaryDemo\AviaryDemo\Bin\Release\ExifLib.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\AviaryDemo\AviaryDemo\Bin\Release\AviarySDK.pdb
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\AviaryDemo\AviaryDemo\Bin\Release\ImageTools.Phone.pdb
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\AviaryDemo\AviaryDemo\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\AviaryDemo\AviaryDemo\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\AviaryDemo\AviaryDemo\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\AviaryDemo\AviaryDemo\Bin\Release\de-DE\AviarySDK.resources.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\AviaryDemo\AviaryDemo\Bin\Release\en-US\AviarySDK.resources.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\AviaryDemo\AviaryDemo\Bin\Release\es-ES\AviarySDK.resources.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\AviaryDemo\AviaryDemo\Bin\Release\fr-FR\AviarySDK.resources.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\AviaryDemo\AviaryDemo\Bin\Release\it-IT\AviarySDK.resources.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\AviaryDemo\AviaryDemo\Bin\Release\ja-JP\AviarySDK.resources.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\AviaryDemo\AviaryDemo\Bin\Release\nl-NL\AviarySDK.resources.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\AviaryDemo\AviaryDemo\Bin\Release\pt-BR\AviarySDK.resources.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\AviaryDemo\AviaryDemo\Bin\Release\pt-PT\AviarySDK.resources.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\AviaryDemo\AviaryDemo\Bin\Release\ru-RU\AviarySDK.resources.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\AviaryDemo\AviaryDemo\Bin\Release\zh-CN\AviarySDK.resources.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\AviaryDemo\AviaryDemo\Bin\Release\zh-TW\AviarySDK.resources.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\AviaryDemo\AviaryDemo\obj\Release\ResolveAssemblyReference.cache
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\AviaryDemo\AviaryDemo\obj\Release\App.g.i.cs
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\AviaryDemo\AviaryDemo\obj\Release\MainPage.g.i.cs
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\AviaryDemo\AviaryDemo\obj\Release\AviaryDemo.g.resources
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\AviaryDemo\AviaryDemo\obj\Release\AviaryDemo.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\AviaryDemo\AviaryDemo\obj\Release\AviaryDemo.pdb
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\AviaryDemo\AviaryDemo\obj\Release\XapCacheFile.xml
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\latestDemo-7-24-2012\AviaryDemo\Bin\Release\ApplicationIcon.png
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\latestDemo-7-24-2012\AviaryDemo\Bin\Release\Background.png
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\latestDemo-7-24-2012\AviaryDemo\Bin\Release\AviaryDemo.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\latestDemo-7-24-2012\AviaryDemo\Bin\Release\AviaryDemo.pdb
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\latestDemo-7-24-2012\AviaryDemo\Bin\Release\AppManifest.xaml
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\latestDemo-7-24-2012\AviaryDemo\Bin\Release\AviaryDemo.xap
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\latestDemo-7-24-2012\AviaryDemo\Bin\Release\AviarySDK.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\latestDemo-7-24-2012\AviaryDemo\Bin\Release\ImageTools.Phone.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\latestDemo-7-24-2012\AviaryDemo\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\latestDemo-7-24-2012\AviaryDemo\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\latestDemo-7-24-2012\AviaryDemo\Bin\Release\PhoneCodeContractsAssemblies.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\latestDemo-7-24-2012\AviaryDemo\Bin\Release\System.Json.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\latestDemo-7-24-2012\AviaryDemo\Bin\Release\ExifLib.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\latestDemo-7-24-2012\AviaryDemo\Bin\Release\AviarySDK.pdb
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\latestDemo-7-24-2012\AviaryDemo\Bin\Release\ImageTools.Phone.pdb
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\latestDemo-7-24-2012\AviaryDemo\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\latestDemo-7-24-2012\AviaryDemo\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\latestDemo-7-24-2012\AviaryDemo\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\latestDemo-7-24-2012\AviaryDemo\Bin\Release\de-DE\AviarySDK.resources.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\latestDemo-7-24-2012\AviaryDemo\Bin\Release\en-US\AviarySDK.resources.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\latestDemo-7-24-2012\AviaryDemo\Bin\Release\es-ES\AviarySDK.resources.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\latestDemo-7-24-2012\AviaryDemo\Bin\Release\fr-FR\AviarySDK.resources.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\latestDemo-7-24-2012\AviaryDemo\Bin\Release\it-IT\AviarySDK.resources.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\latestDemo-7-24-2012\AviaryDemo\Bin\Release\ja-JP\AviarySDK.resources.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\latestDemo-7-24-2012\AviaryDemo\Bin\Release\nl-NL\AviarySDK.resources.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\latestDemo-7-24-2012\AviaryDemo\Bin\Release\pt-BR\AviarySDK.resources.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\latestDemo-7-24-2012\AviaryDemo\Bin\Release\pt-PT\AviarySDK.resources.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\latestDemo-7-24-2012\AviaryDemo\Bin\Release\ru-RU\AviarySDK.resources.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\latestDemo-7-24-2012\AviaryDemo\Bin\Release\zh-CN\AviarySDK.resources.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\latestDemo-7-24-2012\AviaryDemo\Bin\Release\zh-TW\AviarySDK.resources.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\latestDemo-7-24-2012\AviaryDemo\obj\Release\ResolveAssemblyReference.cache
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\latestDemo-7-24-2012\AviaryDemo\obj\Release\App.g.i.cs
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\latestDemo-7-24-2012\AviaryDemo\obj\Release\MainPage.g.i.cs
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\latestDemo-7-24-2012\AviaryDemo\obj\Release\AviaryDemo.g.resources
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\latestDemo-7-24-2012\AviaryDemo\obj\Release\AviaryDemo.dll
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\latestDemo-7-24-2012\AviaryDemo\obj\Release\AviaryDemo.pdb
+C:\Users\afuchs\Documents\Visual Studio 2010\Projects\Mobile-Aviary-SDK-for-Windows-Phone-7\latestDemo-7-24-2012\AviaryDemo\obj\Release\XapCacheFile.xml
+C:\Users\Apoorv\Downloads\AviaryInc-Mobile-Aviary-SDK-for-Windows-Phone-7-ac1550e\AviaryDemo\AviaryDemo\Bin\Release\ApplicationIcon.png
+C:\Users\Apoorv\Downloads\AviaryInc-Mobile-Aviary-SDK-for-Windows-Phone-7-ac1550e\AviaryDemo\AviaryDemo\Bin\Release\Background.png
+C:\Users\Apoorv\Downloads\AviaryInc-Mobile-Aviary-SDK-for-Windows-Phone-7-ac1550e\AviaryDemo\AviaryDemo\Bin\Release\AviaryDemo.dll
+C:\Users\Apoorv\Downloads\AviaryInc-Mobile-Aviary-SDK-for-Windows-Phone-7-ac1550e\AviaryDemo\AviaryDemo\Bin\Release\AviaryDemo.pdb
+C:\Users\Apoorv\Downloads\AviaryInc-Mobile-Aviary-SDK-for-Windows-Phone-7-ac1550e\AviaryDemo\AviaryDemo\Bin\Release\AppManifest.xaml
+C:\Users\Apoorv\Downloads\AviaryInc-Mobile-Aviary-SDK-for-Windows-Phone-7-ac1550e\AviaryDemo\AviaryDemo\Bin\Release\AviarySDK.dll
+C:\Users\Apoorv\Downloads\AviaryInc-Mobile-Aviary-SDK-for-Windows-Phone-7-ac1550e\AviaryDemo\AviaryDemo\Bin\Release\ImageTools.Phone.dll
+C:\Users\Apoorv\Downloads\AviaryInc-Mobile-Aviary-SDK-for-Windows-Phone-7-ac1550e\AviaryDemo\AviaryDemo\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Apoorv\Downloads\AviaryInc-Mobile-Aviary-SDK-for-Windows-Phone-7-ac1550e\AviaryDemo\AviaryDemo\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Apoorv\Downloads\AviaryInc-Mobile-Aviary-SDK-for-Windows-Phone-7-ac1550e\AviaryDemo\AviaryDemo\Bin\Release\PhoneCodeContractsAssemblies.dll
+C:\Users\Apoorv\Downloads\AviaryInc-Mobile-Aviary-SDK-for-Windows-Phone-7-ac1550e\AviaryDemo\AviaryDemo\Bin\Release\System.Json.dll
+C:\Users\Apoorv\Downloads\AviaryInc-Mobile-Aviary-SDK-for-Windows-Phone-7-ac1550e\AviaryDemo\AviaryDemo\Bin\Release\ExifLib.dll
+C:\Users\Apoorv\Downloads\AviaryInc-Mobile-Aviary-SDK-for-Windows-Phone-7-ac1550e\AviaryDemo\AviaryDemo\Bin\Release\AviarySDK.pdb
+C:\Users\Apoorv\Downloads\AviaryInc-Mobile-Aviary-SDK-for-Windows-Phone-7-ac1550e\AviaryDemo\AviaryDemo\Bin\Release\ImageTools.Phone.pdb
+C:\Users\Apoorv\Downloads\AviaryInc-Mobile-Aviary-SDK-for-Windows-Phone-7-ac1550e\AviaryDemo\AviaryDemo\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\Apoorv\Downloads\AviaryInc-Mobile-Aviary-SDK-for-Windows-Phone-7-ac1550e\AviaryDemo\AviaryDemo\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Apoorv\Downloads\AviaryInc-Mobile-Aviary-SDK-for-Windows-Phone-7-ac1550e\AviaryDemo\AviaryDemo\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Apoorv\Downloads\AviaryInc-Mobile-Aviary-SDK-for-Windows-Phone-7-ac1550e\AviaryDemo\AviaryDemo\Bin\Release\de-DE\AviarySDK.resources.dll
+C:\Users\Apoorv\Downloads\AviaryInc-Mobile-Aviary-SDK-for-Windows-Phone-7-ac1550e\AviaryDemo\AviaryDemo\Bin\Release\en-US\AviarySDK.resources.dll
+C:\Users\Apoorv\Downloads\AviaryInc-Mobile-Aviary-SDK-for-Windows-Phone-7-ac1550e\AviaryDemo\AviaryDemo\Bin\Release\es-ES\AviarySDK.resources.dll
+C:\Users\Apoorv\Downloads\AviaryInc-Mobile-Aviary-SDK-for-Windows-Phone-7-ac1550e\AviaryDemo\AviaryDemo\Bin\Release\fr-FR\AviarySDK.resources.dll
+C:\Users\Apoorv\Downloads\AviaryInc-Mobile-Aviary-SDK-for-Windows-Phone-7-ac1550e\AviaryDemo\AviaryDemo\Bin\Release\it-IT\AviarySDK.resources.dll
+C:\Users\Apoorv\Downloads\AviaryInc-Mobile-Aviary-SDK-for-Windows-Phone-7-ac1550e\AviaryDemo\AviaryDemo\Bin\Release\ja-JP\AviarySDK.resources.dll
+C:\Users\Apoorv\Downloads\AviaryInc-Mobile-Aviary-SDK-for-Windows-Phone-7-ac1550e\AviaryDemo\AviaryDemo\Bin\Release\nl-NL\AviarySDK.resources.dll
+C:\Users\Apoorv\Downloads\AviaryInc-Mobile-Aviary-SDK-for-Windows-Phone-7-ac1550e\AviaryDemo\AviaryDemo\Bin\Release\pt-BR\AviarySDK.resources.dll
+C:\Users\Apoorv\Downloads\AviaryInc-Mobile-Aviary-SDK-for-Windows-Phone-7-ac1550e\AviaryDemo\AviaryDemo\Bin\Release\pt-PT\AviarySDK.resources.dll
+C:\Users\Apoorv\Downloads\AviaryInc-Mobile-Aviary-SDK-for-Windows-Phone-7-ac1550e\AviaryDemo\AviaryDemo\Bin\Release\ru-RU\AviarySDK.resources.dll
+C:\Users\Apoorv\Downloads\AviaryInc-Mobile-Aviary-SDK-for-Windows-Phone-7-ac1550e\AviaryDemo\AviaryDemo\Bin\Release\zh-CN\AviarySDK.resources.dll
+C:\Users\Apoorv\Downloads\AviaryInc-Mobile-Aviary-SDK-for-Windows-Phone-7-ac1550e\AviaryDemo\AviaryDemo\Bin\Release\zh-TW\AviarySDK.resources.dll
+C:\Users\Apoorv\Downloads\AviaryInc-Mobile-Aviary-SDK-for-Windows-Phone-7-ac1550e\AviaryDemo\AviaryDemo\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Apoorv\Downloads\AviaryInc-Mobile-Aviary-SDK-for-Windows-Phone-7-ac1550e\AviaryDemo\AviaryDemo\obj\Release\App.g.i.cs
+C:\Users\Apoorv\Downloads\AviaryInc-Mobile-Aviary-SDK-for-Windows-Phone-7-ac1550e\AviaryDemo\AviaryDemo\obj\Release\MainPage.g.i.cs
+C:\Users\Apoorv\Downloads\AviaryInc-Mobile-Aviary-SDK-for-Windows-Phone-7-ac1550e\AviaryDemo\AviaryDemo\obj\Release\AviaryDemo.g.resources
+C:\Users\Apoorv\Downloads\AviaryInc-Mobile-Aviary-SDK-for-Windows-Phone-7-ac1550e\AviaryDemo\AviaryDemo\obj\Release\AviaryDemo.dll
+C:\Users\Apoorv\Downloads\AviaryInc-Mobile-Aviary-SDK-for-Windows-Phone-7-ac1550e\AviaryDemo\AviaryDemo\obj\Release\AviaryDemo.pdb
+C:\Users\Apoorv\Downloads\AviaryInc-Mobile-Aviary-SDK-for-Windows-Phone-7-ac1550e\AviaryDemo\AviaryDemo\obj\Release\XapCacheFile.xml
+C:\Users\Apoorv\Downloads\AviaryInc-Mobile-Aviary-SDK-for-Windows-Phone-7-ac1550e\AviaryDemo\AviaryDemo\Bin\Release\ColorMe.xap
+F:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\obj\Release\App.g.cs
+F:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\obj\Release\MainPage.g.cs
+F:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Release\Background.png
+F:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Release\ApplicationIcon.png
+F:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Release\images\background.png
+F:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Release\SplashScreenImage.jpg
+F:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Release\AppManifest.xaml
+F:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Release\AviarySDK.dll
+F:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Release\ImageTools.Phone.dll
+F:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Release\Microsoft.Phone.Controls.dll
+F:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+F:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Release\PhoneCodeContractsAssemblies.dll
+F:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Release\System.Json.dll
+F:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Release\ExifLib.dll
+F:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Release\AviarySDK.pdb
+F:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Release\ImageTools.Phone.pdb
+F:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+F:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+F:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Release\en-US\AviarySDK.resources.dll
+F:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\obj\Release\XapCacheFile.xml
+F:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Release\EffectsForLife.dll.config
+F:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Release\EffectsForLife.dll
+F:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Release\EffectsForLife.pdb
+F:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\obj\Release\EffectsForLife.g.resources
+F:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\obj\Release\EffectsForLife.dll
+F:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\obj\Release\EffectsForLife.pdb
+F:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Release\Custom Effects .xap
+F:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\obj\Release\AviaryDemo.csprojResolveAssemblyReference.cache
+F:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Release\icons\share.png

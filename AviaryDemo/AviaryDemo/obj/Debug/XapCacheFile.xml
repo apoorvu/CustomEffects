@@ -1,0 +1,34 @@
+﻿<xapCache source="E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\Effects.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="12/22/2012 2:29:11 PM">
+  <file source="E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="8/31/2012 11:19:00 PM" />
+  <file source="E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Background.png" archivePath="Background.png" lastWriteTime="8/31/2012 11:15:07 PM" />
+  <file source="E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="8/31/2012 11:13:51 PM" />
+  <file source="E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\obj\Debug\AviaryDemo.dll" archivePath="AviaryDemo.dll" lastWriteTime="12/22/2012 2:29:10 PM" />
+  <file source="E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviarySDK\dll\AviarySDK.dll" archivePath="AviarySDK.dll" lastWriteTime="7/24/2012 12:13:40 PM" />
+  <file source="E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviarySDK\dll\ImageTools.Phone.dll" archivePath="ImageTools.Phone.dll" lastWriteTime="7/24/2012 12:13:38 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v7.1\Libraries\Silverlight\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="7/6/2012 1:40:16 AM" />
+  <file source="E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviarySDK\dll\Microsoft.Phone.Controls.Toolkit.dll" archivePath="Microsoft.Phone.Controls.Toolkit.dll" lastWriteTime="4/1/2012 7:20:58 PM" />
+  <file source="E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviarySDK\dll\PhoneCodeContractsAssemblies.dll" archivePath="PhoneCodeContractsAssemblies.dll" lastWriteTime="2/23/2012 5:00:14 PM" />
+  <file source="E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\Telerik.Windows.Controls.Input.dll" archivePath="Telerik.Windows.Controls.Input.dll" lastWriteTime="8/1/2012 2:26:22 PM" />
+  <file source="E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\Telerik.Windows.Controls.Primitives.dll" archivePath="Telerik.Windows.Controls.Primitives.dll" lastWriteTime="8/1/2012 2:26:06 PM" />
+  <file source="E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviarySDK\dll\System.Json.dll" archivePath="System.Json.dll" lastWriteTime="3/21/2012 7:10:26 PM" />
+  <file source="E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviarySDK\dll\ExifLib.dll" archivePath="ExifLib.dll" lastWriteTime="3/23/2012 4:10:46 PM" />
+  <file source="E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\Telerik.Windows.Core.dll" archivePath="Telerik.Windows.Core.dll" lastWriteTime="8/1/2012 2:25:58 PM" />
+  <file source="E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\System.Windows.Interactivity.dll" archivePath="System.Windows.Interactivity.dll" lastWriteTime="8/17/2011 1:48:22 AM" />
+  <file source="E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviarySDK\dll\en-US\AviarySDK.resources.dll" archivePath="en-US\AviarySDK.resources.dll" lastWriteTime="7/24/2012 12:13:40 PM" />
+  <file source="E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\de-DE\Telerik.Windows.Controls.Input.resources.dll" archivePath="de-DE\Telerik.Windows.Controls.Input.resources.dll" lastWriteTime="8/1/2012 2:26:22 PM" />
+  <file source="E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\fr-FR\Telerik.Windows.Controls.Input.resources.dll" archivePath="fr-FR\Telerik.Windows.Controls.Input.resources.dll" lastWriteTime="8/1/2012 2:26:22 PM" />
+  <file source="E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\it-IT\Telerik.Windows.Controls.Input.resources.dll" archivePath="it-IT\Telerik.Windows.Controls.Input.resources.dll" lastWriteTime="8/1/2012 2:26:22 PM" />
+  <file source="E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\de-DE\Telerik.Windows.Controls.Primitives.resources.dll" archivePath="de-DE\Telerik.Windows.Controls.Primitives.resources.dll" lastWriteTime="8/1/2012 2:26:06 PM" />
+  <file source="E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\fr-FR\Telerik.Windows.Controls.Primitives.resources.dll" archivePath="fr-FR\Telerik.Windows.Controls.Primitives.resources.dll" lastWriteTime="8/1/2012 2:26:06 PM" />
+  <file source="E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\it-IT\Telerik.Windows.Controls.Primitives.resources.dll" archivePath="it-IT\Telerik.Windows.Controls.Primitives.resources.dll" lastWriteTime="8/1/2012 2:26:06 PM" />
+  <file source="E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\icons\appbar.apply.rest.png" archivePath="icons\appbar.apply.rest.png" lastWriteTime="4/1/2012 11:29:02 AM" />
+  <file source="E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\icons\appbar.cancel.rest.png" archivePath="icons\appbar.cancel.rest.png" lastWriteTime="4/1/2012 11:29:02 AM" />
+  <file source="E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\icons\appbar.save.rest.png" archivePath="icons\appbar.save.rest.png" lastWriteTime="4/1/2012 11:29:02 AM" />
+  <file source="E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\images\background.png" archivePath="images\background.png" lastWriteTime="8/31/2012 11:12:26 PM" />
+  <file source="E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="8/31/2012 11:17:48 PM" />
+  <file source="E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="9/13/2012 1:41:14 AM" />
+  <file source="E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\Background.png" archivePath="Background.png" lastWriteTime="8/31/2012 11:15:07 PM" />
+  <file source="E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="8/31/2012 11:13:51 PM" />
+  <file source="E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\images\background.png" archivePath="images\background.png" lastWriteTime="8/31/2012 11:12:26 PM" />
+  <file source="E:\WP 7 apps-IUJ 2\New Aviary Project\AviaryDemo\AviaryDemo\Bin\Debug\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="8/31/2012 11:17:48 PM" />
+</xapCache>
